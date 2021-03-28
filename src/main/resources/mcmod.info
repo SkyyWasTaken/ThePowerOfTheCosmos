@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thepowerofthecosmos",
+  "name": "The Power of the Cosmos",
+  "description": "Multi-Armor too op. Pls nerf.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SkyyWasTaken"],
+  "credits": "SkyyWasTaken",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
